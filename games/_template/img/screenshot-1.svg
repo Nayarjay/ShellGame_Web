@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280">
+  <!-- Placeholder: replace with a real screenshot (portrait, 1080 × 1920) -->
+  <rect width="720" height="1280" fill="#1b1f3b"/>
+  <rect x="40" y="40" width="640" height="1200" rx="48" fill="none" stroke="#ff6b4a" stroke-width="8" stroke-dasharray="28 22"/>
+  <text x="360" y="640" text-anchor="middle" font-family="system-ui, sans-serif" font-size="300" font-weight="800" fill="#ffc93c">1</text>
+  <text x="360" y="760" text-anchor="middle" font-family="system-ui, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Screenshot 1</text>
+  <text x="360" y="830" text-anchor="middle" font-family="system-ui, sans-serif" font-size="36" fill="#ffffff" opacity=".75">placeholder · 1080 × 1920</text>
+</svg>

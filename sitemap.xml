@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Add one <url> per new page. Replace USERNAME (and the repository name if
+     it changes) with the real address of the site. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://USERNAME.github.io/ShellGame_Web/</loc></url>
+  <url><loc>https://USERNAME.github.io/ShellGame_Web/games/</loc></url>
+  <url><loc>https://USERNAME.github.io/ShellGame_Web/about/</loc></url>
+  <url><loc>https://USERNAME.github.io/ShellGame_Web/contact/</loc></url>
+  <url><loc>https://USERNAME.github.io/ShellGame_Web/games/ufo-pickup/</loc></url>
+  <url><loc>https://USERNAME.github.io/ShellGame_Web/games/ufo-pickup/privacy/</loc></url>
+  <url><loc>https://USERNAME.github.io/ShellGame_Web/fr/</loc></url>
+  <url><loc>https://USERNAME.github.io/ShellGame_Web/fr/games/</loc></url>
+  <url><loc>https://USERNAME.github.io/ShellGame_Web/fr/about/</loc></url>
+  <url><loc>https://USERNAME.github.io/ShellGame_Web/fr/contact/</loc></url>
+  <url><loc>https://USERNAME.github.io/ShellGame_Web/fr/games/ufo-pickup/</loc></url>
+  <url><loc>https://USERNAME.github.io/ShellGame_Web/games/ufo-pickup/privacy/fr/</loc></url>
+</urlset>
